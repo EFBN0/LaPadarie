@@ -1,0 +1,2 @@
+## Descrição da atividade
+O projeto La Padarie tem por objetivo continuar o aprendizado em HTML, CSS e Javascript, simulando um mini sistema de vendas de pães. O projeto possui o formato single page, em que todas as ações acontecem na mesma página, sem o auxílio e carregamento de links de navegação.
